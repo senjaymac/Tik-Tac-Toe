@@ -1,0 +1,11 @@
+C:\Users\Senon\Documents\Repositories\TikTacToe App\TikTacToe App\bin\Debug\TikTacToe App.exe.config
+C:\Users\Senon\Documents\Repositories\TikTacToe App\TikTacToe App\bin\Debug\TikTacToe App.exe
+C:\Users\Senon\Documents\Repositories\TikTacToe App\TikTacToe App\bin\Debug\TikTacToe App.pdb
+C:\Users\Senon\Documents\Repositories\TikTacToe App\TikTacToe App\obj\Debug\TikTacToe App.csproj.AssemblyReference.cache
+C:\Users\Senon\Documents\Repositories\TikTacToe App\TikTacToe App\obj\Debug\TikTacToe App.csproj.SuggestedBindingRedirects.cache
+C:\Users\Senon\Documents\Repositories\TikTacToe App\TikTacToe App\obj\Debug\TikTacToe_App.TikTakToeF1.resources
+C:\Users\Senon\Documents\Repositories\TikTacToe App\TikTacToe App\obj\Debug\TikTacToe_App.Properties.Resources.resources
+C:\Users\Senon\Documents\Repositories\TikTacToe App\TikTacToe App\obj\Debug\TikTacToe App.csproj.GenerateResource.cache
+C:\Users\Senon\Documents\Repositories\TikTacToe App\TikTacToe App\obj\Debug\TikTacToe App.csproj.CoreCompileInputs.cache
+C:\Users\Senon\Documents\Repositories\TikTacToe App\TikTacToe App\obj\Debug\TikTacToe App.exe
+C:\Users\Senon\Documents\Repositories\TikTacToe App\TikTacToe App\obj\Debug\TikTacToe App.pdb
